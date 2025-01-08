@@ -44,9 +44,3 @@ var twoOutOfThree = function (nums1, nums2, nums3) {
 
   return output;
 };
-
-const nums1 = [1, 1, 3, 2],
-  nums2 = [2, 3],
-  nums3 = [3];
-
-console.log(twoOutOfThree(nums1, nums2, nums3));
